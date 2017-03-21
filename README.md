@@ -1,4 +1,4 @@
-# A Blank PhoneGap App
+# It's autumn and time to recollect leafs!
 
 ## Usage
 
